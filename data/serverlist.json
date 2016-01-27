@@ -789,7 +789,17 @@
       "description": "An Undertale RP server",
       "icon": null,
       "language": "EN",
-      "title": "=||BOUNDARIES UNDERTALE||="
+      "title": "=||BOUNDARIES UNDERTALE||="},
+    },
+    "YuGiOh! Unofficial": {
+      "code": "141826599614939136",
+      "description": "Server for all things YuGiOh!",
+      "icon": null,
+      "language": "EN",
+      "title": "YuGiOh!"},
+      
+   
+  
     }
   }
 }
